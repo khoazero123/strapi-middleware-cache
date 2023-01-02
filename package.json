@@ -1,6 +1,6 @@
 {
   "name": "@khoazero123/strapi-middleware-cache",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "description": "Cache strapi requests",
   "main": "./lib",
   "types": "./types",

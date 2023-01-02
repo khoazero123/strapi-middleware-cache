@@ -1,6 +1,6 @@
 {
-  "name": "strapi-middleware-cache",
-  "version": "2.1.8",
+  "name": "@khoazero123/strapi-middleware-cache",
+  "version": "0.1.8",
   "description": "Cache strapi requests",
   "main": "./lib",
   "types": "./types",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patrixr/strapi-middleware-cache.git"
+    "url": "git+https://github.com/khoazero123/strapi-middleware-cache.git"
   },
   "author": "Patrick R",
   "license": "MIT",
